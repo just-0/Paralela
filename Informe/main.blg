@@ -7,7 +7,7 @@ Warning--string name "agoust" is undefined
 --line 4 of file lib.bib
 You've used 1 entry,
             2773 wiz_defined-function locations,
-            597 strings with 4959 characters,
+            597 strings with 4935 characters,
 and the built_in function-call counts, 327 in all, are:
 = -- 26
 > -- 10

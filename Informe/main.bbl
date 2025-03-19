@@ -5,10 +5,9 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Perez(2024)]{repo}
+\bibitem[Perez(2025)]{repo}
 Justo Perez.
 \newblock Repositorio de github - trabajo comparación de cache.
-\newblock \url{https://github.com/just-0/Paralela/tree/master/Trabajo%201},
-  2024.
+\newblock \url{https://github.com/just-0/Paralela}, 2025.
 
 \end{thebibliography}

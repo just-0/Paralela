@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1742413920 "main.aux" "main.bbl" "main" 1742413925 0
-  "./lib.bib" 1742353411 263 c4a57367a4644f3bb8320a7811ba522c ""
+["bibtex main"] 1742414733 "main.aux" "main.bbl" "main" 1742414738 0
+  "./lib.bib" 1742414728 239 ef47340a8edc5dcfd269d3c721ed9ef8 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "main.aux" 1742413924 4120 4c26edf8d3e00be19cbc6cd6eff33716 "pdflatex"
+  "main.aux" 1742414738 4120 c7508a293ba1e0b6d42f837b71103fb9 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1742413920 "/home/just_/OneDrive/Documents/Ucsp/Semestre X/Computacion Paralela y Distribuida/1-Comparacion-bucles-anidados/Informe/main.tex" "main.pdf" "main" 1742413925 0
+["pdflatex"] 1742414733 "/home/just_/OneDrive/Documents/Ucsp/Semestre X/Computacion Paralela y Distribuida/1-Comparacion-bucles-anidados/Informe/main.tex" "main.pdf" "main" 1742414738 0
   "/etc/texmf/web2c/texmf.cnf" 1741240301 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/just_/OneDrive/Documents/Ucsp/Semestre X/Computacion Paralela y Distribuida/1-Comparacion-bucles-anidados/Informe/main.tex" 1742413915 21042 13b059d13849c3c2c8fe0a839ef7a064 ""
+  "/home/just_/OneDrive/Documents/Ucsp/Semestre X/Computacion Paralela y Distribuida/1-Comparacion-bucles-anidados/Informe/main.tex" 1742414720 21042 13b059d13849c3c2c8fe0a839ef7a064 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -140,10 +140,10 @@
   "bucles_cpp_t2.png" 1742408876 132307 32581194609ecaac95d67cbe8d72d946 ""
   "bucles_go_t1.png" 1742408876 168031 b9aa8f57f11fe031773939d08c720fae ""
   "bucles_go_t2.png" 1742408876 169842 4416db02a5746115b939b870a5a18ce3 ""
-  "main.aux" 1742413924 4120 4c26edf8d3e00be19cbc6cd6eff33716 "pdflatex"
-  "main.bbl" 1742413920 466 c128f84dec86f27f8adc548d530db863 "bibtex main"
-  "main.out" 1742413924 2093 bfb4ff519c8586cabfe469b690f46526 "pdflatex"
-  "main.tex" 1742413915 21042 13b059d13849c3c2c8fe0a839ef7a064 ""
+  "main.aux" 1742414738 4120 c7508a293ba1e0b6d42f837b71103fb9 "pdflatex"
+  "main.bbl" 1742414733 440 662f5f7e44af4ad464b49232137ae30e "bibtex main"
+  "main.out" 1742414738 2093 bfb4ff519c8586cabfe469b690f46526 "pdflatex"
+  "main.tex" 1742414720 21042 13b059d13849c3c2c8fe0a839ef7a064 ""
   "matrices_cpp_bloques.png" 1742411246 152511 b3fd54d38b58171d783d086bdd97972f ""
   "matrices_cpp_clasica.png" 1742411246 158672 ce306c6a2b43ca1713a9da997203ed8f ""
   (generated)
